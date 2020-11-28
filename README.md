@@ -10,3 +10,4 @@ TODO
 - Criar tela de Carrinho
 - Criar recycler view para informações do jogo (nome, preco, descrição, desenvolvedora, categoria, etc...)
 - Criar permissões de armazenamento (para gravar preferencias e historico, para cadastrar com o FB e com  google)
+- OMEGA TESTE
