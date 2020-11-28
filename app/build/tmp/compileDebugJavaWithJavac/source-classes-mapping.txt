@@ -1,0 +1,50 @@
+com/example/nordshop/presenters/GamePresenter.java
+ com.example.nordshop.presenters.GamePresenter
+com/example/nordshop/services/Constants.java
+ com.example.nordshop.services.Constants
+ com.example.nordshop.services.Constants$1
+com/example/nordshop/TelaSplash.java
+ com.example.nordshop.TelaSplash
+ com.example.nordshop.TelaSplash$1
+com/example/nordshop/model/Game.java
+ com.example.nordshop.model.Game
+ com.example.nordshop.model.Game$1
+com/example/nordshop/Recyclers/recyclerFragment.java
+ com.example.nordshop.Recyclers.recyclerFragment
+com/example/nordshop/services/CategoryFW.java
+ com.example.nordshop.services.CategoryFW
+com/example/nordshop/model/Category.java
+ com.example.nordshop.model.Category
+com/example/nordshop/presenters/GameContract.java
+ com.example.nordshop.presenters.GameContract
+ com.example.nordshop.presenters.GameContract$GamePresenter
+ com.example.nordshop.presenters.GameContract$GameView
+com/example/nordshop/services/GameServices.java
+ com.example.nordshop.services.GameServices
+ com.example.nordshop.services.GameServices$1
+ com.example.nordshop.services.GameServices$DonwloadImageTask
+com/example/nordshop/TelaLogin.java
+ com.example.nordshop.TelaLogin
+ com.example.nordshop.TelaLogin$1
+com/example/nordshop/database/Conection.java
+ com.example.nordshop.database.Conection
+com/example/nordshop/Detalhe.java
+ com.example.nordshop.Detalhe
+ com.example.nordshop.Detalhe$1
+com/example/nordshop/database/UsuarioDAO.java
+ com.example.nordshop.database.UsuarioDAO
+com/example/nordshop/exception/UserNotFoundException.java
+ com.example.nordshop.exception.UserNotFoundException
+com/example/nordshop/Catalogo.java
+ com.example.nordshop.Catalogo
+com/example/nordshop/BuildConfig.java
+ com.example.nordshop.BuildConfig
+com/example/nordshop/Usuario.java
+ com.example.nordshop.Usuario
+com/example/nordshop/CadastroUsuarioActivity.java
+ com.example.nordshop.CadastroUsuarioActivity
+com/example/nordshop/Adapters/AdapterRecycler.java
+ com.example.nordshop.Adapters.AdapterRecycler
+ com.example.nordshop.Adapters.AdapterRecycler$ViewHolderCatalogo
+com/example/nordshop/exception/IncorrectPasswordException.java
+ com.example.nordshop.exception.IncorrectPasswordException

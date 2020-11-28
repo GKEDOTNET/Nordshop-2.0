@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bottombar.png.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\drawable\\bottombar.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\menu_left_navigation.xml.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\menu\\left_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cadastro_usuario.xml.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\layout\\activity_cadastro_usuario.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu.png.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\drawable\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_new_activity_catalogo.xml.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\layout\\new_activity_catalogo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gow.png.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\drawable\\gow.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_searchicon.png.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\drawable\\searchicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_jogo.xml.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\layout\\jogo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fh.png.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\drawable\\fh.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_new_activity_splash.xml.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\layout\\new_activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.png.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_endbaryellow.png.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\drawable\\endbaryellow.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\font_sirinstencil_regular.ttf.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\font\\sirinstencil_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_googleefacebook.png.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\drawable\\googleefacebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_catalogo.xml.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\layout\\activity_catalogo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_game.xml.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_recycler.xml.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\layout\\fragment_recycler.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_acv.png.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\drawable\\acv.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_homeicon.png.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\drawable\\homeicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_instaicon.png.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\drawable\\instaicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\font_germania_one.xml.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\font\\germania_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cadastraricon.png.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\drawable\\cadastraricon.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_gamer.png.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\drawable\\icon_gamer.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loginbuttonicon.png.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\drawable\\loginbuttonicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_entraricon.png.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\drawable\\entraricon.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_moreicon.png.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\drawable\\moreicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_favoriteicon.png.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\drawable\\favoriteicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cadastrobar.png.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\drawable\\cadastrobar.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_faceicon.png.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\drawable\\faceicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_showpassicon.png.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\drawable\\showpassicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_whatsicon.png.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\drawable\\whatsicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbar.xml.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_navigation.xml.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\menu\\bottom_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_new_activity_cadastro.xml.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\layout\\new_activity_cadastro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_backbutton.png.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\drawable\\backbutton.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_yellowbar.png.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\drawable\\yellowbar.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_new_activity_login.xml.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\layout\\new_activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Usuario\\StudioProjects\\Nordshop-2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    }
+]
